@@ -35,13 +35,14 @@ Desenvolver uma aplicação desktop funcional que aplique conceitos fundamentais
 
 ## 📂 Estrutura de Pastas
 
-
+```
 sistema_cadastro/
 ├── main.py          # Entry point da aplicação
 ├── clientes.json    # Base de dados local
 ├── dist/            # Executável gerado para Windows
 ├── assets/          # (Opcional) Ícones e imagens
 └── README.md        # Documentação
+```
 
 ---
 
