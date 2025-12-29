@@ -35,7 +35,7 @@ Desenvolver uma aplicação desktop funcional que aplique conceitos fundamentais
 
 ## 📂 Estrutura de Pastas
 
-```text
+
 sistema_cadastro/
 ├── main.py          # Entry point da aplicação
 ├── clientes.json    # Base de dados local
@@ -49,10 +49,14 @@ sistema_cadastro/
 
 - **Pré-requisitos**
 - **Python 3.x instalado**
+  
+---
 
 ## Dependências do projeto
 
 - **pip install customtkinter**
+
+---
 
 ## Execução
 - **Clone o repositório:**
@@ -63,6 +67,8 @@ python main.py
 
 - **Ou execute diretamente o arquivo .exe disponível na aba Releases.**
 
+---
+
 ## 🚀 Roadmap (v2.0)
  Implementação de banco de dados SQLite
 
@@ -71,6 +77,8 @@ python main.py
  Sistema de autenticação (Login/Senha)
 
  Edição e exclusão de usuários cadastrados
+
+ ---
 
 ##👨‍💻 Autor
 **Oseias Rodrigues**
