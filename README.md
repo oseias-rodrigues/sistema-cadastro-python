@@ -79,7 +79,7 @@ python main.py
 
  Edição e exclusão de usuários cadastrados
 
- ---
+---
 
 ##👨‍💻 Autor
  **Oseias Rodrigues**
