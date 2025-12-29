@@ -8,13 +8,6 @@ Projeto de interface gráfica para cadastro de usuários, desenvolvido com foco 
 
 ---
 
-## 📸 Demonstração
-
-
-![Screenshot do Sistema](https://via.placeholder.com/600x400?text=Print+da+sua+Interface+Aqui)
-
----
-
 ## 🎯 Objetivo
 
 Desenvolver uma aplicação desktop funcional que aplique conceitos fundamentais de Python, como manipulação de arquivos JSON e criação de interfaces modernas com CustomTkinter.
@@ -50,24 +43,27 @@ sistema_cadastro/
 ├── assets/          # (Opcional) Ícones e imagens
 └── README.md        # Documentação
 
-▶️ Como Executar
-Pré-requisitos
-Python 3.x instalado
+---
 
-Dependências do projeto
+## ▶️ Como Executar
 
-pip install customtkinter
+- **Pré-requisitos**
+- **Python 3.x instalado**
 
-Execução
-Clone o repositório:
+## Dependências do projeto
+
+- **pip install customtkinter**
+
+## Execução
+- **Clone o repositório:**
 
 git clone https://github.com/oseias-rodrigues/sistema-cadastro-python.git
 Acesse a pasta do projeto e execute:
 python main.py
 
-Ou execute diretamente o arquivo .exe disponível na aba Releases.
+- **Ou execute diretamente o arquivo .exe disponível na aba Releases.**
 
-🚀 Roadmap (v2.0)
+## 🚀 Roadmap (v2.0)
  Implementação de banco de dados SQLite
 
  Refatoração para Programação Orientada a Objetos (POO)
@@ -76,7 +72,7 @@ Ou execute diretamente o arquivo .exe disponível na aba Releases.
 
  Edição e exclusão de usuários cadastrados
 
-👨‍💻 Autor
-Oseias Rodrigues
+##👨‍💻 Autor
+**Oseias Rodrigues**
 
 Projeto desenvolvido para fins educacionais e construção de portfólio.
