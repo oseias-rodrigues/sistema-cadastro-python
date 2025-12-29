@@ -81,7 +81,7 @@ python main.py
 
 ---
 
-##👨‍💻 Autor
+## 👨‍💻 Autor
  **Oseias Rodrigues**
 
  Projeto desenvolvido para fins educacionais e construção de portfólio.
